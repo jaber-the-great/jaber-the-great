@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on bufferbloat and latency in the internet
 - 👯 I’m looking to collaborate on queue management
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaber-daneshamooz/)
-- ⚡ Fun fact: When I'm not working, I enjoy surfing in Devereux beach or enjoy beatiful hikes os Santa Barbara
+- ⚡ Fun fact: When I'm not working, I enjoy surfing in Devereux beach or enjoy beatiful hikes of Santa Barbara
 
 ## Github stats:
 
