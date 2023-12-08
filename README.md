@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on bufferbloat and latency in the internet
+- 🔭 I’m currently working on application of ML in netoworking
+  - bufferbloat and latency
+  - Security 
 - 👯 I’m looking to collaborate on queue management
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaber-daneshamooz/)
 - ⚡ Fun fact: When I'm not working, I enjoy surfing in Devereux beach or enjoy beatiful hikes of Santa Barbara
