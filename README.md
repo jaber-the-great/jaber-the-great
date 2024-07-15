@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on application of ML in netoworking
+- 🔭 I’m currently working on application of ML in netoworking and security
+  - Generalizable dataset curation for networking problems
+      - Security
+      - Performance
+      - Measurement 
   - bufferbloat and latency
   - Security 
 - 👯 I’m looking to collaborate on queue management
