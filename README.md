@@ -7,7 +7,7 @@
       - Measurement 
   - bufferbloat and latency
   - Security 
-- 👯 I’m looking to collaborate on queue management
+- 👯 I’m looking for research collaboration in the areas of ML and Networking. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaber-daneshamooz/)
 - ⚡ Fun fact: When I'm not working, I enjoy surfing in Devereux beach or enjoy beatiful hikes of Santa Barbara
 
