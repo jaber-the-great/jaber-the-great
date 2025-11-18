@@ -1,13 +1,6 @@
-### Hi there 👋
 
 - 🔭 I’m currently working on application of ML in netoworking and security
-  - Generalizable dataset curation for networking problems
-      - Security
-      - Performance
-      - Measurement 
-  - bufferbloat and latency
-  - Security 
-- 👯 I’m looking for research collaboration in the areas of ML and Networking. 
+- 👯 I’m looking for research collaboration in the areas of ML and Networking ad security. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaber-daneshamooz/)
 - ⚡ Fun fact: When I'm not working, I enjoy surfing in Devereux beach or enjoy beatiful hikes of Santa Barbara
 
